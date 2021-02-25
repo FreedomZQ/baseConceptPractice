@@ -12,7 +12,8 @@ import static genericsPractice.entity.ArrayEntity.printArray;
 
 /**
  * Created by ZQ.
- * 参考：菜鸟教程 https://www.runoob.com/java/java-generics.html
+ * 参考： 菜鸟教程 https://www.runoob.com/java/java-generics.html
+ *
  * 泛型的练习：
  * 一、泛型方法：
  * 1、数组的泛型方法
